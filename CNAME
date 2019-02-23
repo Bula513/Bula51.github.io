@@ -1,1 +1,2 @@
-bulala.me
+$ touch CNAME
+echo 'yucicheung.me'> CNAME
